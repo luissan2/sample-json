@@ -1,0 +1,45 @@
+{
+    "unDate": {
+        "quantity": 812,
+        "items": [
+            {
+                "orderId": 1255,
+                "organizationName": "Nudos SAP",
+                "organizationflag": "https://d2bb2hf1hp3ih3.cloudfront.net/images/country-img-1cde2f24-e803-44d6-92e4-c07ccec3c61d-2b47-97bb-S7BvVrw5Q-regular.png",
+                "paymentMethod": "Tarjeta internacional",
+                "total": "447.88",
+                "cretedAt": "2023-07-26T17:04:57.000Z",
+                "noShipments": 3,
+                "needInvoice": 0,
+                "invoiceUrl": "https://d3jfrqiwvd5im4.cloudfront.net/files/aa6b3799-2570-40b2-982f-4f1c11d2fb60.pdf",
+                "countriesShipments": [
+                    "https://d2bb2hf1hp3ih3.cloudfront.net/images/country-img-1cde2f24-e803-44d6-92e4-c07ccec3c61d-2b47-97bb-S7BvVrw5Q-regular.png",
+                    "https://d2bb2hf1hp3ih3.cloudfront.net/images/country-img-1cde2f24-e803-44d6-92e4-c07ccec3c61d-2b47-97bb-S7BvVrw5Q-regular.png",
+                    "https://d2bb2hf1hp3ih3.cloudfront.net/images/country-img-1cde2f24-e803-44d6-92e4-c07ccec3c61d-2b47-97bb-S7BvVrw5Q-regular.png"
+                ],
+                "proofOfPayment": null,
+                "shimpentStatus": [
+                    {
+                        "shipmentId": 2069,
+                        "status": "WITHOUT_DATE"
+                    },
+                    {
+                        "shipmentId": 2070,
+                        "status": "WITHOUT_DATE"
+                    },
+                    {
+                        "shipmentId": 2071,
+                        "status": "WITHOUT_DATE"
+                    }
+                ]
+            }
+        ]
+    },
+  "withDate": {
+        "quantity": 54,
+        "items": [],
+  },
+   "lateDate": {
+        "quantity": 0,
+        "items": []
+    }
